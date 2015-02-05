@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Send Money Service</string>
+    <string name="first_help">Choose Your Preferred Service Provider</string>
+    <string name="action_settings">Settings</string>
+    <string name="first_service">Gemtel</string>
+    <string name="second_service">Vivacell</string>
+    <string name="third_service">Zain</string>
+    <string name="form_title">Title</string>
+    <string name="form_phone_label">Phone :</string>
+    <string name="form_phone_amount">Amount :</string>
+    <string name="form_submit">Submit</string>
+
+</resources>
